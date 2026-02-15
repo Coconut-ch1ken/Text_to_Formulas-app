@@ -1,0 +1,7 @@
+pynput
+sounddevice
+numpy
+scipy
+google-generativeai
+python-dotenv
+pyautogui
